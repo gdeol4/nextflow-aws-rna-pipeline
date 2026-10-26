@@ -1,0 +1,15 @@
+# Environment variables (contains AWS account IDs, ARNs)
+.env
+
+# Nextflow runtime
+.nextflow/
+.nextflow.log*
+work/
+trace-*.txt
+timeline-*.html
+report-*.html
+dag-*.html
+
+# OS
+.DS_Store
+Thumbs.db
